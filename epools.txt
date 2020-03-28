@@ -1,0 +1,9 @@
+#
+# PhoenixMiner ethash pools list
+#
+
+# POOL: eth-eu1.nanopool.org:9999, WAL: YOUR_WALLET.YOUR_WORKER/YOUR_EMAIL, WORKER: , PASS: x, PROTO: 1, COIN: eth, STALES: 1
+# POOL: eth-eu2.nanopool.org:9999, WAL: YOUR_WALLET.YOUR_WORKER/YOUR_EMAIL, WORKER: , PASS: x, PROTO: 1, COIN: eth, STALES: 1
+# POOL: eth-us-east1.nanopool.org:9999, WAL: YOUR_WALLET.YOUR_WORKER/YOUR_EMAIL, WORKER: , PASS: x, PROTO: 1, COIN: eth, STALES: 1
+# POOL: eth-us-west1.nanopool.org:9999, WAL: YOUR_WALLET.YOUR_WORKER/YOUR_EMAIL, WORKER: , PASS: x, PROTO: 1, COIN: eth, STALES: 1
+# POOL: eth-asia1.nanopool.org:9999, WAL: YOUR_WALLET.YOUR_WORKER/YOUR_EMAIL, WORKER: , PASS: x, PROTO: 1, COIN: eth, STALES: 1
